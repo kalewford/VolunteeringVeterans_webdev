@@ -1,7 +1,7 @@
 # VolunteeringVeterans_webdev
 Website design
 
-**free image from pixabay.com**
+**free images from pixabay.com**
 
 # Key Features
 
@@ -13,4 +13,8 @@ Website design
 
 # Current scope
 
-Landing page with 4-5 hero images seperated by info bars with added nice padding.
+Landing page with 4-5 hero images seperated by info bars with added nice padding
+
+## Copyright
+
+Volunteering Veterans (C) 2019. All Rights Reserved.

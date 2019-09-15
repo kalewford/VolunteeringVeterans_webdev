@@ -8,7 +8,7 @@ body{
 }
 
 .img-container{
-    background-image: url(../images/stars-932873_1920.jpg);
+    background-image: url(../images/stars.jpg);
     height: 70%;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ inner-conatiner{
     text-align: center;
     position: absolute;
     width: 100%;
-    color: white;
+    color: blue;
     height: auto;
     margin-top: 200px;
 }
@@ -34,7 +34,7 @@ h1{
 
 h2{
     margin-top: -45px;
-    color: white;
+    color:white;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 1.7em;
     text-align: center;
